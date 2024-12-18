@@ -1,1 +1,3 @@
-# NER_annotator
+## NER_annotator
+
+Named Entity Recognition annotator
